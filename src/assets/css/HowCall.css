@@ -1,0 +1,40 @@
+p {
+    text-align: justify;
+
+}
+br{
+    display: block;
+    content: "";
+    margin-bottom: 36px;
+}
+
+span{
+    margin-right: 20px;
+}
+.how-call{
+     font-size: large;
+ }
+#when-call{
+    position: sticky;
+    top:64px;
+    width: 100%;
+    background-color: #E30E13;
+    color: #E30E13;
+}
+.second{
+    color:#fff;
+}
+
+.icons-set{
+    font-size: 72px;
+    margin-right: 24px;
+}
+
+.header-icon{
+    font-size: 36px;
+    margin-right: 24px;
+}
+
+.when-call {
+    color:red;
+}

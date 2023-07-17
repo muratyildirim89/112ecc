@@ -1,0 +1,23 @@
+.navbar{
+    background-color: #E30E13;
+    border-radius:0 0 10px 10px;
+}
+
+.nav-item{
+    cursor: pointer;
+}
+.dropdown-menu{
+    background-color: #E30E13;
+}
+.dropdown-item{
+    color: white;
+}
+.dropdown-item:hover{
+    /*background-color: #E30E13;*/
+    background-color: #343E59;
+    color: white;
+}
+
+.nav-link:hover{
+    color:white;
+}

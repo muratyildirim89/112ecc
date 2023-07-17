@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.112.gov.tr/kurumlar/112.gov.tr/IcSite/ankara/Genel/resimler/haber/bakan-ziyaret/3.jpg",
+    "caption": "item1",
+    "objectPosition": "50% -250px",
+    "type": 1,
+    "head": "Mr. Soylu, Minister of Interior, Conducted Investigation at the Ankara Governor's Office 112 Emergency Call Center",
+    "content": "Minister of Interior Süleyman Soylu visited the Ankara Governorship 112 Emergency Call Center on Tuesday, 24.01.2017 at 16.00 and made inspections."
+  },
+  {
+    "id": 2,
+    "url": "https://www.112.gov.tr/kurumlar/112.gov.tr/IcSite/ankara/003a45a8_0608_4cd8_8314_97f273e075d2.jpg",
+    "caption": "item2",
+    "objectPosition": "50% -300px",
+    "type": 1,
+    "head": "112 Awareness Day Activities",
+    "content": "As part of the 112 Awareness Day activities, our staff came together with the citizens and introduced the 112 Emergency Call Center."
+  },
+  {
+    "id": 3,
+    "url": "https://www.112.gov.tr/kurumlar/112.gov.tr/IcSite/ankara/WhatsApp-Image-2022_01_05-at-143522.jpeg",
+    "caption": "item3",
+    "objectPosition": "50% -1000px",
+    "type": 1,
+    "head": "Vardiyalı Çalışanlarda Uyku ve Beslenme Düzeni Eğitimi",
+    "content": "Ankara İl Sağlık Müdürlüğü Halk Sağlığı Hizmetleri Başkanlığının katkılarıyla Prof. Dr. Melike Bağnu YÜCEEGE, Halk Sağlığı Uzmanı Zeynep ŞENLİK, Diyetisyen Nilüfer EROĞLU ve Emine YURT tarafından Müdürlüğümüzde görevli Çağrı Karşılayıcı personele 'Vardiyalı Çalışanlarda Uyku ve Beslenme Düzeni' konulu eğitim düzenlendi"
+  },
+  {
+    "id": 4,
+    "url": "https://www.112.gov.tr/kurumlar/112.gov.tr/IcSite/ankara/fiz3.jpg",
+    "caption": "item4",
+    "objectPosition": "50% -200px",
+    "type": 1,
+    "head": "Masabaşı Fiziksel Aktivite ve Egzersiz Eğitimi",
+    "content": "Çağrı merkezimizde görevli tüm personelimize fizyoterapist eğitmenlerimiz eşliğinde konsolda çalışırken oluşan duruş ve oturuş bozuklukları ile ilgili bilgilendirme yapıldı"
+  },
+  {
+    "id": 5,
+    "url": "https://www.112.gov.tr/kurumlar/112.gov.tr/IcSite/ankara/WhatsApp-Image-2022-02-11-at-175206.jpeg",
+    "caption": "item5",
+    "objectPosition": "50% -500px",
+    "type": 1,
+    "head": "11 Şubat '112 Günü'",
+    "content": "11 Şubat '112 Günü' kurumumuzdan sorumlu Vali Yardımcısı Sayın Turan YILMAZ'ın katılımıyla gerçekleştirilen törenle kutlandı"
+  },
+  {
+    "id": 6,
+    "url": "https://www.112.gov.tr/kurumlar/112.gov.tr/IcSite/ankara/8mart.mp4",
+    "caption": "item6",
+    "objectPosition": "50% -200px",
+    "type": 0,
+    "head": "8 Mart Dünya Kadınlar Günü",
+    "content": "Türk kadını, muvaffak olduğu bu temel öğeleri nesiller boyu aynı kararlılık ve azimle taşımış, yaşadığımız ve yaşayacağımız her başarıya imzalarını atmışlardır."
+  }
+]

@@ -1,0 +1,12 @@
+.accordion-item{
+    padding:1em 1em 4em 0;
+}
+
+.accordion-button{
+    font-size: 1.2em;
+}
+
+.accordion-body{
+    background-color: #efb7a8;
+    font-size: 1.2em;
+}

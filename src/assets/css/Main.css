@@ -1,0 +1,25 @@
+.carousel-item{
+    height: 100vh;
+    overflow: hidden;
+}
+
+@media (min-width: 682px) and (max-width:992px) {
+    .carousel-item{
+        height: 90vh;
+        overflow: hidden;
+    }
+}
+
+@media (min-width: 475px) and (max-width:682px) {
+    .carousel-item{
+        height: 60vh;
+        overflow: hidden;
+    }
+}
+
+@media (max-width:474px) {
+    .carousel-item{
+        height: 30vh;
+        overflow: hidden;
+    }
+}

@@ -26,9 +26,6 @@ function Navbar() {
                         Ankara 112 Acil Çağrı Merkezi
                     </Link>
 
-                    {/*<a className="navbar-brand" style={{cursor:"pointer"}} onClick={() => history.push("/")}>*/}
-                    {/*    <img src={logo} alt={"Logo"} width={"30"} className="d-inline-block align-text-top"/>*/}
-                    {/*    &nbsp;Ankara 112 Acil Çağrı Merkezi</a>*/}
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -41,8 +38,6 @@ function Navbar() {
                                     <Icon name="sitemap" size="big" className="mb-2 me-2"/>
                                     {t("About Number 112")}
                                 </Link>
-                                {/*<a className="nav-link" aria-current="page" href="https://ornek.com">*/}
-                                {/*    </a>*/}
                             </li>
                             <li className="nav-item dropdown">
                                 <Link className={"nav-link dropdown-toggle"} role="button" data-bs-toggle="dropdown"
@@ -51,16 +46,9 @@ function Navbar() {
                                     {t("Calling Number 112")}
                                 </Link>
 
-
-                                {/*<a className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"*/}
-                                {/*   aria-expanded="false" href="https://ornek.com">*/}
-                                {/*    <Icon name={"phone"} size={"big"} className={"mb-2 me-2"}/>*/}
-                                {/*    {t("Calling Number 112")}*/}
-                                {/*</a>*/}
                                 <ul className="dropdown-menu">
                                     <li>
                                         <Link to={"/how-call"} className="dropdown-item">{t("How to call 112")}</Link>
-                                        {/*<a className="dropdown-item" href="https://ornek.com">{t("How to call 112")}</a>*/}
                                     </li>
                                     <li>
                                         <Link to={"/how-call"} className="dropdown-item">{t("When to call 112")}</Link>

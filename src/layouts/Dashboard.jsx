@@ -6,7 +6,6 @@ function Dashboard() {
     return (
         <div>
             <Navbar/>
-            Deneme
             {/*<Route exact path={"/"} component ={Main}/>*/}
             {/*<Route exact path={"/about"} component={About}/>*/}
             {/*<Route exact path={"/how-call"} component={HowCall}/>*/}
